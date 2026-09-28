@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+    
+}
+
+#hobbies{
+    text-decoration:underline;
+}
+
+ol{
+   font-size: 24px; 
+}
+
+#reading{
+    border: 1px solid black;
+}
+
+.gardening{
+    color:green;
+    font-style: italic;
+}
+
+.cooking{
+    color: red;
+    font-style: italic;
+}
+
+.piano{
+    color: blueviolet;
+    font-style: italic;
+}
